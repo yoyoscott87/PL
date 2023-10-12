@@ -14,9 +14,7 @@
 
 1012 資料正則化 Regular Expression : 
 
-[測試網站](https://regexr.com/)
-
-[語法英文](http://perso.ens-lyon.fr/lise.vaudor/strings-et-expressions-regulieres/?fbclid=IwAR0IHvNKp43Qrfo0TqpolYPpMUfViSrCBDY8SmBveKm01yZ6PzHPxspVaNI)
+[測試網站](https://regexr.com/)  [語法英文](http://perso.ens-lyon.fr/lise.vaudor/strings-et-expressions-regulieres/?fbclid=IwAR0IHvNKp43Qrfo0TqpolYPpMUfViSrCBDY8SmBveKm01yZ6PzHPxspVaNI)
 
 [語法中文](http://www.vixual.net/blog/archives/211)
 
