@@ -12,6 +12,7 @@
 
 ## 課程筆記區
 
+1012 資料正則化 : 
 ## 作業連結區
 [HW1](https://colab.research.google.com/drive/1yXtT4luoalVF8kJ3dLoWcpSMCYhfRzgg?hl=zh-tw)
 
