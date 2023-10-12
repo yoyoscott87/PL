@@ -12,7 +12,7 @@
 
 ## 課程筆記區
 
-1012 資料正則化(Regular Expression) : 
+1012 資料正則化 Regular Expression : 
 
 [測試網站](https://regexr.com/)
 
