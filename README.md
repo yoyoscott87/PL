@@ -21,7 +21,7 @@ import re 匯入Regular Expression套件
 
 text = """要匯入的文本"""  三個引號可以搞定換行問題
 
-pattern = r'檢索條件'
+pattern = r'檢索條件'  pattern = re.compile(r'Your Pattern Here', re.DOTALL) re.DOTALL可用於將print出來的東西換行
 
 
 ## 作業區
