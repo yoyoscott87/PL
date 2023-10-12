@@ -19,7 +19,7 @@
 
 import re 匯入Regular Expression套件
 
-text = 要匯入的文本
+text = """要匯入的文本"""  三個引號可以搞定換行問題
 
 pattern = r'檢索條件'
 
