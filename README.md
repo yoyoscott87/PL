@@ -31,4 +31,6 @@ pattern = r'檢索條件'  pattern = re.compile(r'Your Pattern Here', re.DOTALL)
 
 [HW2](105task2.ipynb)
 ![問題1](105/1.png)
+![問題1](105/2.png)
+![問題1](105/3.png)
 ## 專題連結區
