@@ -29,6 +29,6 @@ pattern = r'檢索條件'  pattern = re.compile(r'Your Pattern Here', re.DOTALL)
 ## 作業區
 [HW1](https://colab.research.google.com/drive/1yXtT4luoalVF8kJ3dLoWcpSMCYhfRzgg?hl=zh-tw)
 
-[HW2](105task)
+[HW2](105task2.ipynb)
 
 ## 專題連結區
