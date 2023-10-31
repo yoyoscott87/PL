@@ -35,4 +35,6 @@ pattern = r'檢索條件'  pattern = re.compile(r'Your Pattern Here', re.DOTALL)
 ![問題1](105/3.png)
 
 [HW2.1](二下午通識/hw11.ipynb)
+
+[HW3爬蟲](HW3爬蟲/hw3.ipynb)
 ## 專題連結區
