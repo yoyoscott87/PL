@@ -37,4 +37,8 @@ pattern = r'檢索條件'  pattern = re.compile(r'Your Pattern Here', re.DOTALL)
 [HW2.1](二下午通識/hw11.ipynb)
 
 [HW3爬蟲](HW3爬蟲/hw3.ipynb)
+
+[HW3csv](HW爬蟲/hw3.csv)
+
+[HW3json](HW爬蟲/hw3.json)
 ## 專題連結區
