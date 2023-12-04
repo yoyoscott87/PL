@@ -43,4 +43,6 @@ pattern = r'檢索條件'  pattern = re.compile(r'Your Pattern Here', re.DOTALL)
 [HW3json](HW3爬蟲/anime_data.json)
 
 [HW4](https://medium.com/@99053.111y/2023-lol%E5%9B%9B%E5%BC%B7%E6%B7%98%E6%B1%B0%E8%B3%BD%E7%AC%AC%E4%BA%8C%E5%A4%A9-12725408e80d)
+
+[HW5 word cloud v.s. voyant tools](https://medium.com/@99053.111y/word-cloud-v-s-voyant%E6%96%87%E5%AD%97%E5%88%86%E6%9E%90-fb8279bf4f29)
 ## 專題連結區
